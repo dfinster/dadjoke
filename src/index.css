@@ -1,0 +1,45 @@
+.clip-dlg {
+    color: #fff;
+    background: #1976d2;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    line-height: 1.25;
+    border: 0;
+    position: relative;
+    top: 9rem;
+}
+
+p.MuiTypography-h1 {
+    font-weight: 500;
+    font-size: 2.1rem;
+
+}
+
+p.MuiTypography-h2 {
+    font-weight: 400;
+    font-size: 1.6rem;
+}
+
+p.MuiTypography-body1 {
+    font-weight: 500;
+    font-size: 1.4rem;
+    white-space: pre-line;
+    line-height: 1.3;
+    padding-bottom: 1rem;  
+}
+
+p.MuiTypography-body2 {
+    font-weight: 400;
+    font-size: 1.3rem;
+    white-space: pre-line;  
+    line-height: 1.3;  
+}
+
+a {
+    color: #1976d2;
+    text-decoration: none;
+}
