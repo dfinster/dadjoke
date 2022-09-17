@@ -22,9 +22,7 @@ function About() {
                 </Typography>
                 <Typography paragraph sx={{ textAlign: 'center' }} variant="body2" gutterBottom>
                     David Finster wrote this to learn more about React.<br />
-                    There is no backend; this is a static site running at Netlify.<br />
-                    All jokes are the property of their respective owners.<br />
-                    Credit is provided if known.
+                    There is no backend; it's a static site that reads json.
                 </Typography>
 
                 <Box sx={{ display: 'flex', margin: '1rem auto 1rem', justifyContent: 'center', flexDirection: 'row', flexWrap: 'wrap' }} >
