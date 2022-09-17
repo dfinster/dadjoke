@@ -30,7 +30,7 @@ http://localhost:3000
 
 To [use React Router on Netlify](https://www.freecodecamp.org/news/how-to-deploy-react-router-based-app-to-netlify/):
 
-"Create `_redirects` in the public folder with:"
+Create `_redirects` in the public folder with:
 
 ```sh
 /* /index.html 200
