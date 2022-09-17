@@ -35,13 +35,3 @@ To [use React Router on Netlify](https://www.freecodecamp.org/news/how-to-deploy
 ```sh
 /* /index.html 200
 ```
-
-## License
-
-This project is &copy; 2022 David Finster. All Rights Reserved.  
-
-This project doesn't inherit from any templates or upstream projects. Each joke is the property of the respective author and used by permission, with credit given if known. Please notify <david@fortc.com> if a joke has incorrect credit or should be removed.
-
-## Credits
-
-[Photo by Monstera](https://www.pexels.com/photo/happy-black-father-having-fun-with-daughter-5996870/) from Pexels
