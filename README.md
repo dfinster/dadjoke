@@ -1,18 +1,18 @@
-# Lultr.com
+# dadjoke.fortc.com
 
 ## About
 
-Lultr is a random joke machine. Jokes should be less than 250 characters.
+I wanted to learn more about React and I love Dad jokes. This is a static site that loads random jokes from [a simple json file](src/_jokes.json).
 
 ## Run the App
 
 1. Install [Node.js](https://nodejs.org/).
-1. Download or clone this repository.
+1. Clone this repository.
 1. Navigate to the project's root folder and install the required NPM packages.
 
-   ```sh
-   npm install
-   ```
+```sh
+npm install
+```
 
 1. Start the development server.
 
@@ -38,9 +38,9 @@ To [use React Router on Netlify](https://www.freecodecamp.org/news/how-to-deploy
 
 ## License
 
-Lultr.com is &copy; 2022 David Finster. All Rights Reserved.
+This project is &copy; 2022 David Finster. All Rights Reserved.  
 
-Each joke is the property of the respective author and used by permission, with credit given if known. Please notify david@fortc.com if a joke has incorrect credit or should be removed.
+This project doesn't inherit from any templates or upstream projects. Each joke is the property of the respective author and used by permission, with credit given if known. Please notify <david@fortc.com> if a joke has incorrect credit or should be removed.
 
 ## Credits
 
