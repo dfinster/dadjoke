@@ -34,7 +34,7 @@ function App(props) {
                 <CopyClipboard id={joke.id} setup={joke.setup} punchline={joke.punchline} />
 
                 <Button sx={{ margin: '.3rem' }} variant="outlined" startIcon={<FaEnvelope />} 
-                    href={`mailto:?subject=A%20joke%20from%20dadjoke.fortc.com&body=${joke.setup}%0a%0a${joke.punchline}%0a%0ahttps://dadjoke.fortc.com/l/${joke.id}`}>
+                    href={`mailto:?subject=A%20joke%20from%20dadjoke.fortc.com&body=${joke.setup}%0a${joke.punchline}%0a%0ahttps://dadjoke.fortc.com/l/${joke.id}`}>
                     Mail
                 </Button>
 
