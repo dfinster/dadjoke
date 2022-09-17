@@ -18,7 +18,7 @@ function Credit(props) {
         return (
             <>
                 <Typography variant="caption" display="block" align="center" gutterBottom>
-                    Credit: Unknown &bull; <a target="_new" href={`/l/${id}`}>Permalink</a>
+                    <a target="_new" href={`/l/${id}`}>Permalink</a>
                 </Typography>
             </>
         );     
