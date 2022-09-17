@@ -11,7 +11,7 @@ function CopyClipboard(props) {
 
     let copyText = props.setup;
     copyText += "\n\n" + props.punchline;
-    copyText += "\n\nCredit: https://www.lultr.com/l/" + id;
+    copyText += "\n\nFrom https://dadjoke.fortc.com/l/" + id;
 
     const [isCopied, setIsCopied] = useState(false);
 
