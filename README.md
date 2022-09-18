@@ -1,5 +1,7 @@
 # dadjoke.fortc.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5a2ca453-3773-48c3-8ab3-37069cb60859/deploy-status)](https://app.netlify.com/sites/dfinrdadjoke/deploys)
+
 ## About
 
 I wanted to learn more about React and I love Dad jokes. This is a static site that loads random jokes from [a simple json file](src/_jokes.json).
