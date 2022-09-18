@@ -8,7 +8,7 @@ function Copyright(props) {
             <Typography variant="caption" display="block" align="center" gutterBottom>
             <a href="https://www.fortc.com">&copy; David Finster</a>
             <br />
-            <a href="/about">About</a> &bull; <a href="/privacy">Privacy</a> &bull; <a href="https://github.com/dfinr/dadjoke">GitHub</a>
+            <a href="/about">About</a> &bull; <a href="/privacy">Privacy</a> &bull; <a href="https://github.com/dfinster/dadjoke">GitHub</a>
             </Typography>
             </>
         ); 

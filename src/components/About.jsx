@@ -29,7 +29,7 @@ function About() {
                 <Button sx={{ margin: '0px 6px 0px 6px' }} variant="outlined" startIcon={<FaEnvelope />} href="mailto:david@fortc.com">
                         Email David
                 </Button>
-                <Button sx={{ margin: '0px 6px 0px 6px' }} variant="outlined" startIcon={<FaGithub />} href="https://github.com/dfinr/dadjoke">
+                <Button sx={{ margin: '0px 6px 0px 6px' }} variant="outlined" startIcon={<FaGithub />} href="https://github.com/dfinster/dadjoke">
                         Project Repository
                 </Button>
             </Box>
