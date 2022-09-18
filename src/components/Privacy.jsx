@@ -20,10 +20,9 @@ function Privacy() {
                     Privacy Policy
                 </Typography>
                 <Typography paragraph sx={{ textAlign: 'center' }} variant="body2" gutterBottom>
+                    This is a static site with no backend.<br /> 
                     We don't use cookies.<br />
-                    We don't collect your information.<br />
-                    We don't store your information.<br />
-                    We don't sell your information.<br />
+                    We don't collect, store, or sell anything.<br />
                 </Typography>
                 </Box>
                 <Copyright />
